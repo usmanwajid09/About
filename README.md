@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Usman Wajid</h1>
 <h3 align="center">CS Undergrad | Backend & C++ Developer</h3>
 
+<img src="https://th.bing.com/th?id=OIF.xgJD%2fCk%2fUGenYs1BydyYbQ&rs=1&pid=ImgDetMain" alt="Description of the image" width="500" height="auto">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanwajid09&label=Profile%20views&color=0e75b6&style=flat" alt="usmanwajid09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmanwajid09" alt="usmanwajid09" /></a> </p>
